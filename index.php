@@ -160,7 +160,7 @@ Beauty and skin care products available for you on <span><em>wholesale discounts
           <div class="contact_items 3" id="phone" data-aos="fade-right">
           <i class="fa-solid fa-phone fa-3x fa-color5"></i>
           <div><h2>Call Us</h2>
-              <p>&#43; 234 803 278 8419 </p></div>
+              <p>&#43; 234 803 278 8414 </p></div>
           </div>
         </div>   
 
