@@ -4,85 +4,228 @@
 <body>
 <?php require "includes/header2.php"; ?>
 
+
 <!-- Slider Container -->
-    <div class="slider_container">
+    <!-- <div class="slider_container" id="product_dropdown_div11">
     <div></div>
       <div class="sliders">
-          <img src="images/slider/skin1.webp" alt="">
-          <img src="images/slider/skin (2)_LI.jpg" alt="">
-          <img src="images/slider/blog-1.jpg" alt="">
-          <img src="images/slider/skin2.jpg" alt="">
+          <video  class="video" autoplay loop muted controls>
+            <source src="videos/vid2.mp4" id="item">
+          </video>
+          <img src="images/slider/skin1.webp" alt="" id="item1">
+          <img src="images/slider/blog-1.jpg" alt="" id="item2">
+          <img src="images/slider/skin2.jpg" alt="" id="item3">
 </div>
+
+</div> -->
+<div class="containerr" id="off2" >
+        <div class="wrapperr" >
+            <div class="slider_holder">
+                <div id="slider_image1">
+                <video  class="video" autoplay loop muted controls>
+            <source src="videos/vid2.mp4" >
+              </video>
+                </div>
+                <div id="slider_image2">
+                <div class="waviy">
+   <span style="--i:1">W</span>
+   <span style="--i:2">I</span>
+   <span style="--i:3">G</span>
+   <span style="--i:4">H</span>
+   <span style="--i:5">T</span>
+   <span style="--i:6">E</span>
+   <span style="--i:7">N</span>
+   <span style="--i:8">I</span>
+   <span style="--i:9">N</span>
+   <span style="--i:10">G</span>
+
+  </div>
+                </div>
+                <div id="slider_image3">
+                  <div class="content1111">
+                     <h2>BODY WASH</h2>
+                     <h2>BODY WASH</h2>
+                  </div> 
+               </div>
+            </div>
+        </div>
+        
 </div>
+
+
+
 
 
 <!-- Ad section starts -->
 <div class="Ad_div">
-<button class="Ad_button" id="Ad_button"><i class="fa-solid fa-xmark fa-2x"></i></button>
-   <h1>Want to see more?</h1>
-   <p>I know you're looking for a lightening cream to make your skin smooth and spotless. Well, look no further because Dodo white got you covered. please make sure to go through all the content of our website to benefit more.</p>
+
+   <h1 data-aos="fade-up">ECHELINKS COSMETICS NIGERIA LIMITED</h1><br>
+   <p data-aos="fade-up">
+   Echelinks Cosmetics Nigeria Limited is a fast-selling dependable and affordable company highly concerned with producing dermatologically approved beauty and skin care products that will help you achieve a fresh, ever- young, bright, wrinkleless and spotless fair skin.
+We understand that  "beautiful people attract beautiful things".<br><br> Therefore, we've made our catalogue of only quality beauty products  available and affordable for you to enjoy on attractive <span><em>wholesale discounts</em></span> when you shop online via our website. <br><br>
+
+Beauty and skin care products available for you on <span><em>wholesale discounts</em></span> prices include: <br><br>
+<ul class="product_list" data-aos="fade-up">
+                 <li><p class="WHY_CHOOSE_US_Ponts"><i class="fa-solid fa-angle-right fa-color4"></i><a href="product.php">Whitening body creams</a></p></li>
+                 <li><p class="WHY_CHOOSE_US_Ponts"><i class="fa-solid fa-angle-right fa-color4"></i><a href="product2.php">Face whitening serum</a></p></li>
+                 <li>  <p class="WHY_CHOOSE_US_Ponts"><i class="fa-solid fa-angle-right fa-color4"></i><a href="product3.php">Facial Cream</a></p></li>
+                 <li>   <p class="WHY_CHOOSE_US_Ponts"><i class="fa-solid fa-angle-right fa-color4"></i><a href="product4.php">Tablet soap</a></p> </li>
+                 <li><p class="WHY_CHOOSE_US_Ponts"><i class="fa-solid fa-angle-right fa-color4"></i><a href="product5.php">whitening body Suppliments</a></p></li>
+                 <li><p class="WHY_CHOOSE_US_Ponts"><i class="fa-solid fa-angle-right fa-color4"></i><a href="product6.php">whitening and anti spot teas</a></p></li>
+                 <li>  <p class="WHY_CHOOSE_US_Ponts"><i class="fa-solid fa-angle-right fa-color4"></i><a href="product7.php">body enhanced teas</a></p></li>
+                 <li>   <p class="WHY_CHOOSE_US_Ponts"><i class="fa-solid fa-angle-right fa-color4"></i><a href="product8.php">hair Shampo’s</a></p> </li>
+                 <li><p class="WHY_CHOOSE_US_Ponts"><i class="fa-solid fa-angle-right fa-color4"></i><a href="product9.php">whitening body washes </a></p></li>
+             </ul>     
+
+   </p>
 </div>
 <!-- Ad section ends -->
 
 
 
-<!-- Who We Are -->
-   <div class="floating_image">
-   <div class="floating_picture"><img src="images/item.png" height="400px" width="490px"></div>
-       <div class="floating_text"><span class="floating_text1">Exciting Facts About Us</span>
-       <h1 class="floating_text_header">Dodo White</h1><br>
-       <p>Dodo White with carrot extract is a beauty lightening product that has been specifically designed to treat all stubborn skin related problems spontaneously! Its natural ingredients have been perfectly blended to beautifully  blend the knuckles, knees, inner thighs, under arms, elbows and feets. With DoDo White, your most admired picture perfect light skin sits glamorously on you.</p>
-    <div class="floating_image_button_div"><button class="floating_image_button"><h3><a href="services.php">Read More</a></h3></button></div>
-    </div>
+<div data-aos="fade-up">
+  <h2 class="recent_products">Our Recent Products</h2><br> 
+</div>
   
-    </div>
-  
+
+
+    <div class="floating_picture a102" data-aos="fade-up">
+   <div class="slider_container a101">
+    <div></div>
+      <div class="sliders a101">
+          <img src="images/items/pic28.jpg" height="400px" width="250px" alt="">
+          <img src="images/items/pic11.jpg" height="400px" alt="">  
+          <img src="images/items/pic35.jpg" height="400px" alt="">
+          <img src="images/items/pic22.jpg" height="400px" width="350px" alt="">
+</div>
+</div>
+
+<div class="slider_container a101">
+    <div></div>
+      <div class="sliders a101">
+          <img src="images/items/pic5.jpg" height="400px" width="250px" alt="">
+          <img src="images/items/pic34.jpg" height="400px" alt="">  
+          <img src="images/items/pic33.jpg" height="400px" alt="">
+          <img src="images/items/pic10.jpg" height="400px" width="350px" alt="">
+</div>
+</div>
+
+<div class="slider_container a101">
+    <div></div>
+      <div class="sliders a101">
+          <img src="images/items/pic41.jpg" height="400px" width="250px" alt="">
+          <img src="images/items/pic7.jpg" height="400px" alt="">  
+          <img src="images/items/pic8.jpg" height="400px" alt="">
+          <img src="images/items/pic12.jpg" height="400px" width="350px" alt="">
+</div>
+</div>
+
+<div class="slider_container a101">
+    <div></div>
+      <div class="sliders a101">
+          <img src="images/items/pic17.jpg" height="400px" width="250px" alt="">
+          <img src="images/items/pic19.jpg" height="400px" alt="">  
+          <img src="images/items/pic32.jpg" height="400px" alt="">
+          <img src="images/items/pic31.jpg" height="400px" width="350px" alt="">
+</div>
+</div>
+
+<div class="slider_container a101 yygg">
+    <div></div>
+      <div class="sliders a101">
+          <img src="images/items/pic29.jpg" height="400px" width="250px" alt="">
+          <img src="images/items/pic1.jpg" height="400px" alt="">  
+          <img src="images/items/pic20.jpg" height="400px" alt="">
+          <img src="images/items/pic4.jpg" height="400px" width="350px" alt="">
+</div>
+</div>
+   </div>
+
+
+
  <!-- Contact Info -->
-       <div class="Contact_info">
-          <div class="contact_items 1" id="contact">
+       <div class="Contact_info1">
+          <div class="contact_items 1" id="contact" data-aos="fade-left">
           <i class="fa-solid fa-location-dot fa-3x fa-color5"></i>
              <div><h2>Our office</h2>
-          <p>NASSIA Complex Ojo, Badagry expressway ,Lagos</p></div>
+          <p>C13 Kano plaza, Trade Fair Complex, Lagos.</p></div>
           </div>
 
-          <div class="contact_items a 2" id="email">
+          <div class="contact_items a 2" id="email" data-aos="fade-up">
           <i class="fa-solid fa-envelope fa-3x fa-color5"></i>
           <div><h2>Email Us</h2>
-          <p>info@gdonmegabusinesslimited.com</p></div>
+          <p>info@echelinks.com</p></div>
           </div>
 
-          <div class="contact_items 3" id="phone">
+          <div class="contact_items 3" id="phone" data-aos="fade-right">
           <i class="fa-solid fa-phone fa-3x fa-color5"></i>
           <div><h2>Call Us</h2>
-              <p>&#43; 234 90 6117 8207</p></div>
+              <p>&#43; 234 803 278 8419 </p></div>
           </div>
         </div>   
 
+
+        <h1 class="specialties"  data-aos="fade-up">OUR SPECIALTIES</h1>
+
+
+
 <!-- What We Do -->
-<div class="What_We_Do">
+<div class="What_We_Do" id="slots44">
      <div class="Creative_services">
-         <span class="text_head">Dodo White Specialties</span>
-         <h1 class="h1">Why Dodo White?</h1>
-         <p class="LHS_text">Dodo White products have been fortified with the right formula to defend your skin from sun burn, black knuckles and elbows, reddish skin, skin itching and body odor.</p><br>
-     </div>
-       <div class="floating_text">       
-            <div class="product_container_home">
+     
+     
+
+     <div class="product_container_home" data-aos="fade-up">
               <div class="product2">
               <i class="fa-solid fa-star fa-3x fa-color6"></i>
-                 <div class="services"><h2>Dodo white suitable for dark skin</h2><br>
-                 <p>The product’s amazing flexibility nourishes, polishes, smoothens, repairs and feeds your dark skin with just the best ingredients it needs to stay glowing, young and fresh.</p></div>
+                 <div class="services"><h2>BODY SERUM</h2><br>
+                 <p>It help boost the whitening effect.</p></div>
               </div>
               <div class="product2">
               <i class="fa-solid fa-seedling fa-3x fa-color6"></i>
-                 <div class="services"><h2>Dodo White ingredients</h2><br>
-                 <p>Alpha-hydroxy acid, lactic acid, escalol uvinol, cetyl alcohol, stearic acid, glyceryl, stearate, natural honey, kojic acid, Vitamin C, allantoin, petroleum jelly, olive oil, deionized water, isopropyl myristate, Vitamin A, and fragrance</p></div>
+                 <div class="services"><h2>Q10 Efficacy </h2><br>
+                  <p>Q10 efficacy on the black spots smothen the skin and regulates rationally the process of production of melanin </p></div>
               </div>
             </div>
-            <div class="product_container_home">
+
+            
+            <div class="product_container_home" data-aos="fade-up">
                <div class="product2">
                <i class="fa-solid fa-square-poll-vertical fa-3x fa-color6"></i>
-                 <div class="services"><h2>Dodo white quick effect</h2><br>
-                 <p>Due to its rich and unique ingredients, DoDo White’s effect on skin is visible after three to seven days first application on skin.</p></div>   
+                 <div class="services"><h2>Carribean Lotion</h2><br>
+                 <p>Carribean lotion was formulated to polish and glow your skin with its powerful combination of natural whitening ingredients.</p></div>   
+               </div>
+               <div class="product2">
+               <i class="fa-solid fa-hand-holding-droplet fa-3x fa-color6"></i>
+                 <div class="services"><h2>How to apply Dodo white</h2><br>
+                 <p>Pour some lotion of Dodo white beauty cream in your palms and apply generously on the gace in the morning and before bedtime (twice daily) for quick results.</p></div>
+               </div>
+            </div>
+
+
+
+
+      
+     </div>
+       <div class="floating_text" data-aos="fade-up">       
+            <div class="product_container_home">
+              <div class="product2">
+              <i class="fa-solid fa-star fa-3x fa-color6"></i>
+                 <div class="services"><h2>BODY SERUM</h2><br>
+                 <p>It help boost the whitening effect.</p></div>
+              </div>
+              <div class="product2">
+              <i class="fa-solid fa-seedling fa-3x fa-color6"></i>
+                 <div class="services"><h2>Q10 Efficacy </h2><br>
+                 <p>Q10 efficacy on the black spots smothen the skin and regulates rationally the process of production of melanin </p></div>
+              </div>
+            </div>
+
+            <div class="product_container_home" data-aos="fade-up">
+               <div class="product2">
+               <i class="fa-solid fa-square-poll-vertical fa-3x fa-color6"></i>
+                 <div class="services"><h2>Carribean Lotion</h2><br>
+                 <p>Carribean lotion was formulated to polish and glow your skin with its powerful combination of natural whitening ingredients.</p></div>   
                </div>
                <div class="product2">
                <i class="fa-solid fa-hand-holding-droplet fa-3x fa-color6"></i>
@@ -95,55 +238,11 @@
 
 
 
-
-
-
-        <div class="floating_image">
-       <div class="floating_picture1">
-       <span class="floating_text1">WHY CHOOSE US</span>
-       <h1 class="floating_text_header">11 Years Expereince</h1>
-       <p class="WHY_CHOOSE_US">For aeons of years, our beauty skin care products have significantly maintained a global upper edge among its contemporaries. Dodo White is crowned as an effortless skin saver of all times!</p><br>
-       <p class="WHY_CHOOSE_US_Ponts"><i class="fa-solid fa-angle-right fa-color4"></i>Black Spot Removal</p>
-       <p class="WHY_CHOOSE_US_Ponts"><i class="fa-solid fa-angle-right fa-color4"></i>Anti-aging Lotion</p>
-       <p class="WHY_CHOOSE_US_Ponts"><i class="fa-solid fa-angle-right fa-color4"></i>Body lightening</p><br>
-       </div>
-       <div class="floating_text">       
-            <div class="product_container_home">
-            <div class="product1">
-            <h1 class="squares">11</h1>
-            <h2>Years Expereince</h2>
-            </div>
-            <div class="product1">
-            <h1 class="squares">34</h1>
-            <h2>SKilled Experts</h2>
-            </div>
-            </div>
-            <div class="product_container_home">
-            <div class="product1">
-            <h1 class="squares">1050</h1>
-            <h2>Happy Clients</h2>
-            </div>
-            <div class="product1">
-            <h1 class="squares">2500</h1>
-            <h2>Global Results</h2>
-            </div>
-        </div>
-        </div>
-</div>
-
-
-
-
-
-  
-
-
-
    
-    <div class="floating_image">
+    <div class="floating_image" id="lhs_function" data-aos="fade-up">
        <div class="floating_picture1">
-       <span class="floating_text1">WHAT CLIENTS SAY</span>
-       <h1 class="floating_text_header">CLIENTS' REVIEWS</h1>
+       <span class="floating_text1">REVIEWS</span><br>
+       <br><h2 class="floating_text_header">CLIENTS' REVIEWS</h2>
        <p class="WHY_CHOOSE_US">The opinion polls usually conducted at intervals have gone a long way in offering therapeutic guide for present and prospective clients !</p><br>
        </div>
        <div class="floating_text">       
@@ -164,6 +263,15 @@
 
      <?php include "includes/footer.php"; ?>
 
+     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init(
+      {
+        offset: 200,
+        duration: 1000,
+      }
+    );
+  </script>
 
   <script src="javascripts/script1.js"></script>
 </body>
