@@ -75,7 +75,7 @@ $invalid_email = $only_letters = $name_error = $email_error =  "";
                                 if(mysqli_query($conn,  $sql))
                                 
                                 {
-                                   echo "<span style='color:green; font-weight:bold; '>Registration succesful</span>";
+                                   echo "<span style='color:green; font-weight:bold; '>Thank you for contacting us.</span>";
                                 }
                                 else
                                 {
@@ -155,6 +155,7 @@ $invalid_email = $only_letters = $name_error = $email_error =  "";
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.499942328528!2d3.247292764590073!3d6.45816204532787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b862322f4a5e7%3A0x1e3e8ea7bca235dd!2sKANO%20PLAZA%2C%20Trade%20Fair%20Complex%20102102%2C%20Lagos!5e0!3m2!1sen!2sng!4v1669072112279!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"  data-aos="fade-right"></iframe>
     </div>
 
+    <i class="fa-solid fa-arrow-down"></i>
    
  
     <script src="javascripts/script1.js"></script>

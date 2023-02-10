@@ -150,7 +150,7 @@
         background-color: orange;
         color: black;
         border-color: grey;
-        width: 130px;
+        width: 160px;
      }
 
      .Courses_buttons:hover
@@ -1118,7 +1118,7 @@ margin-right: 400px;
          padding: 30px;
          text-align: center;
          display: flex;
-         
+         padding-bottom: 35px;
          flex-basis: 300px;
          margin: 0%;
      }
@@ -1227,6 +1227,7 @@ margin-right: 400px;
          margin-right: 2%;
          margin-left: 2%; 
          flex-basis: 300px;
+         margin-bottom: 40px;
      }
  
      .contact_items1
@@ -2895,13 +2896,13 @@ iframe
 
 .containerr #slider_image2
 {
-    background-image: url(../images/items/pic12.JPG);
+    background-image: url(../images/pr_slider.jpg);
     background-size: cover;
 }
 
 .containerr #slider_image3
 {
-    background-image: url(../images/items/pic15.JPG);
+    background-image: url(../images/body_enhance/body_enhance.jpg);
     background-size: cover;
 }
 
@@ -2958,6 +2959,7 @@ iframe
     align-items:center;
     justify-content:center;
     margin:1%;
+    padding-bottom: 70px;
   }
   .box{
     padding: 0px;
@@ -2965,7 +2967,7 @@ iframe
     max-width: 700px;
     margin: 0px 6px;
     margin-bottom: -28px; 
-    margin-top: -20px;
+    margin-top: 20px;
     background:white;
     border:1px solid #d6d6d6;
     box-shadow:0 2px 3px 0px rgba(0,0,0,0.25);
@@ -2990,7 +2992,12 @@ iframe
 
 
 
-
+  .b222
+  {
+     color: black;
+     padding-left: 6px;
+     font-size: large;
+  }
 
 
 

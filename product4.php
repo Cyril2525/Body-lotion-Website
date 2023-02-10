@@ -16,11 +16,11 @@
     <!-- item1 -->
           <div class="contact_items1 box">
               <div class="top_container">
-                  <img src="images/items/pic5.jpg" height="400px" width="290px">
+                  <img src="images/shower_gels/shower_gel1.jpg" height="400px" width="290px">
                   
               </div>
             <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
+                <h3>SUPER BLEACHING</h3><br>
                 <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
             </div>
           </div>
@@ -28,11 +28,11 @@
           <!-- item2 -->
           <div class="contact_items1 box">
               <div class="top_container">
-                  <img src="images/items/pic2.jpg" height="400px" width="290px">
+                  <img src="images/shower_gels/shower_gel2.jpg" height="400px" width="290px">
                  
               </div>
             <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
+                <h3>LAIT BODYWASH</h3><br>
                 <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
             </div>
           </div>
@@ -40,11 +40,11 @@
           <!-- item3 -->
           <div class="contact_items1 box">
               <div class="top_container">
-                  <img src="images/items/pic7.jpg" height="400px" width="290px">
+                  <img src="images/shower_gels/shower_gel3.jpg" height="400px" width="290px">
                  
               </div>
             <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
+                <h3>PUREC EGYPTIAN</h3><br>
                 <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
             </div>
           </div>
@@ -52,11 +52,11 @@
           <!-- item4 -->
           <div class="contact_items1 box">
               <div class="top_container">
-                  <img src="images/items/pic9.jpg" height="400px" width="290px">
+                  <img src="images/shower_gels/shower_gel4.jpg" height="400px" width="290px">
                  
               </div>
             <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
+                <h3>LA ASIAN WHITE</h3><br>
                 <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
             </div>
           </div>
@@ -64,11 +64,11 @@
           <!-- item5 -->
           <div class="contact_items1 box">
               <div class="top_container">
-                  <img src="images/items/pic10.jpg" height="400px" width="290px">
+                  <img src="images/shower_gels/shower_gel5.jpg" height="400px" width="290px">
                 
               </div>
             <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
+                <h3>BALANCED GLOW</h3><br>
                 <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
             </div>
           </div>
@@ -80,11 +80,11 @@
     <!-- item1 -->
           <div class="contact_items1 box">
               <div class="top_container">
-                  <img src="images/items/pic11.jpg" height="400px" width="290px">
+                  <img src="images/shower_gels/shower_gel6.jpg" height="400px" width="290px">
                  
               </div>
             <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
+                <h3>THE PUREST GLOW</h3><br>
                 <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
             </div>
           </div>
@@ -92,11 +92,11 @@
           <!-- item2 -->
           <div class="contact_items1 box">
               <div class="top_container">
-                  <img src="images/items/pic4.jpg" height="400px" width="290px">
+                  <img src="images/shower_gels/shower_gel7.jpg" height="400px" width="290px">
                  
               </div>
             <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
+                <h3>BALANCED GLOW</h3><br>
                 <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
             </div>
           </div>
@@ -104,11 +104,11 @@
           <!-- item3 -->
           <div class="contact_items1 box">
               <div class="top_container">
-                  <img src="images/items/pic17.jpg" height="400px" width="290px">
+                  <img src="images/shower_gels/shower_gel8.jpg" height="400px" width="290px">
                  
               </div>
             <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
+                <h3>LAIT BEAUTY+</h3><br>
                 <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
             </div>
           </div>
@@ -116,156 +116,16 @@
           <!-- item4 -->
           <div class="contact_items1 box">
               <div class="top_container">
-                  <img src="images/items/pic18.jpg" height="400px" width="290px">
+                  <img src="images/shower_gels/shower_gel9.jpg" height="400px" width="290px">
              
               </div>
             <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
+                <h3>PUREC EGYPTIAN GOLD</h3><br>
                 <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
             </div>
           </div>
-
-          <!-- item5 -->
-          <div class="contact_items1 box">
-              <div class="top_container">
-                  <img src="images/items/pic19.jpg" height="400px" width="290px">
-                 
-              </div>
-            <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
-                <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
-            </div>
-          </div>
-        </div>   
-
-
-
-        <div class="Contact_info box-wrap">
-    <!-- item1 -->
-          <div class="contact_items1 box">
-              <div class="top_container">
-                  <img src="images/items/pic31.jpg" height="400px" width="290px">
-                 
-              </div>
-            <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
-                <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
-            </div>
-          </div>
-
-          <!-- item2 -->
-          <div class="contact_items1 box">
-              <div class="top_container">
-                  <img src="images/items/pic32.jpg" height="400px" width="290px">
-                 
-              </div>
-            <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
-                <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
-            </div>
-          </div>
-
-          <!-- item3 -->
-          <div class="contact_items1 box">
-              <div class="top_container">
-                  <img src="images/items/pic37.jpg" height="400px" width="290px">
-                  
-              </div>
-            <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
-                <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
-            </div>
-          </div>
-
-          <!-- item4 -->
-          <div class="contact_items1 box">
-              <div class="top_container">
-                  <img src="images/items/pic39.jpg" height="400px" width="290px">
-                 
-              </div>
-            <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
-                <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
-            </div>
-          </div>
-
-          <!-- item5 -->
-          <div class="contact_items1 box">
-              <div class="top_container">
-                  <img src="images/items/pic41.jpg" height="400px" width="290px">
-                 
-              </div>
-            <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
-                <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
-            </div>
-          </div>
-        </div>   
-
-
-
-        <div class="Contact_info box-wrap">
-    <!-- item1 -->
-          <div class="contact_items1 box">
-              <div class="top_container">
-                  <img src="images/items/pic29.jpg" height="400px" width="290px">
-                
-              </div>
-            <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
-                <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
-            </div>
-          </div>
-
-          <!-- item2 -->
-          <div class="contact_items1 box">
-              <div class="top_container">
-                  <img src="images/items/pic25.jpg" height="400px" width="290px">
-                
-              </div>
-            <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
-                <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
-            </div>
-          </div>
-
-          <!-- item3 -->
-          <div class="contact_items1 box">
-              <div class="top_container">
-                  <img src="images/items/pic20.jpg" height="400px" width="290px">
-                  
-              </div>
-            <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
-                <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
-            </div>
-          </div>
-
-          <!-- item4 -->
-          <div class="contact_items1 box">
-              <div class="top_container">
-                  <img src="images/items/pic1.jpg" height="400px" width="290px">
-                 
-              </div>
-            <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
-                <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
-            </div>
-          </div>
-
-          <!-- item5 -->
-          <div class="contact_items1 box">
-              <div class="top_container">
-                  <img src="images/items/pic21.jpg" height="400px" width="290px">
-                  
-              </div>
-            <div class="container11">
-                <h3>MARIO BADESCU </h3><br>
-                <div> <p class="fleft">$100<h2 class="fright">$79.99</h2></p></div>
-            </div>
-          </div>
-        </div>   
-
+</div>
+         
      <?php include "includes/footer.php"; ?>
 
      <script src="javascripts/script1.js"></script>

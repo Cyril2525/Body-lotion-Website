@@ -27,7 +27,7 @@
               </video>
                 </div>
                 <div id="slider_image2">
-                <div class="waviy">
+                <!-- <div class="waviy">
    <span style="--i:1">W</span>
    <span style="--i:2">I</span>
    <span style="--i:3">G</span>
@@ -39,13 +39,13 @@
    <span style="--i:9">N</span>
    <span style="--i:10">G</span>
 
-  </div>
+  </div> -->
                 </div>
                 <div id="slider_image3">
-                  <div class="content1111">
+                  <!-- <div class="content1111">
                      <h2>BODY WASH</h2>
                      <h2>BODY WASH</h2>
-                  </div> 
+                  </div>  -->
                </div>
             </div>
         </div>
@@ -263,6 +263,7 @@ Beauty and skin care products available for you on <span><em>wholesale discounts
 
      <?php include "includes/footer.php"; ?>
 
+     <!-- AOS Script -->
      <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
   <script>
     AOS.init(
